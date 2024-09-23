@@ -1,13 +1,13 @@
 {
-  "name": "nodejs-file-api",
+  "name": "my-app",
   "version": "1.0.0",
-  "description": "Node.js API to create timestamped files",
-  "main": "server.js",  
+  "description": "API that creates timestamped files",
+  "main": "server.js", 
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.1",
     "dotenv": "^8.2.0"
   }
 }
